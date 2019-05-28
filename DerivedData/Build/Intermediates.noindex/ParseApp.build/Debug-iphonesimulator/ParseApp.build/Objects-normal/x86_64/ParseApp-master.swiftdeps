@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "46ddcca310af3e0467ba4cd3f4901af7"
+build_time: [1559002332, 181644000]
+inputs:
+  "/Users/kennethmoody/Desktop/iOS projects/ParseApp/ParseApp/ViewController.swift": [1559002332, 129055887]
+  "/Users/kennethmoody/Desktop/iOS projects/ParseApp/ParseApp/AppDelegate.swift": [1558541549, 725654743]

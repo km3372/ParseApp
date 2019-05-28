@@ -5,6 +5,199 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>13030C9A-86F9-4BFB-BF16-EA959F0319A0</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>13030C9A-86F9-4BFB-BF16-EA959F0319A0.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ParseApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ParseApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ParseApp</string>
+			<key>timeStartedRecording</key>
+			<real>580401384.33078802</real>
+			<key>timeStoppedRecording</key>
+			<real>580401943.23520696</real>
+			<key>title</key>
+			<string>Debug ParseApp</string>
+			<key>uniqueIdentifier</key>
+			<string>13030C9A-86F9-4BFB-BF16-EA959F0319A0</string>
+		</dict>
+		<key>2DEF6EC2-4DD5-4D1F-B62C-8570A16FFAAA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2DEF6EC2-4DD5-4D1F-B62C-8570A16FFAAA.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ParseApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ParseApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ParseApp</string>
+			<key>timeStartedRecording</key>
+			<real>580233845.41337395</real>
+			<key>timeStoppedRecording</key>
+			<real>580234348.84488797</real>
+			<key>title</key>
+			<string>Debug ParseApp</string>
+			<key>uniqueIdentifier</key>
+			<string>2DEF6EC2-4DD5-4D1F-B62C-8570A16FFAAA</string>
+		</dict>
+		<key>7742CC19-97BD-4FAB-9BD1-FEBBEDD845C1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7742CC19-97BD-4FAB-9BD1-FEBBEDD845C1.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ParseApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ParseApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ParseApp</string>
+			<key>timeStartedRecording</key>
+			<real>580694947.40490997</real>
+			<key>timeStoppedRecording</key>
+			<real>580695019.75990796</real>
+			<key>title</key>
+			<string>Debug ParseApp</string>
+			<key>uniqueIdentifier</key>
+			<string>7742CC19-97BD-4FAB-9BD1-FEBBEDD845C1</string>
+		</dict>
+		<key>9DA64FEB-26D4-4B07-A9E4-9B70AC167652</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9DA64FEB-26D4-4B07-A9E4-9B70AC167652.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ParseApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ParseApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ParseApp</string>
+			<key>timeStartedRecording</key>
+			<real>580400812.79877698</real>
+			<key>timeStoppedRecording</key>
+			<real>580401355.133183</real>
+			<key>title</key>
+			<string>Debug ParseApp</string>
+			<key>uniqueIdentifier</key>
+			<string>9DA64FEB-26D4-4B07-A9E4-9B70AC167652</string>
+		</dict>
+		<key>BB6D6213-EEE4-4EEC-87BE-02684E3E66E0</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>BB6D6213-EEE4-4EEC-87BE-02684E3E66E0.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ParseApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ParseApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ParseApp</string>
+			<key>timeStartedRecording</key>
+			<real>580695020.19898999</real>
+			<key>timeStoppedRecording</key>
+			<real>580695131.34767306</real>
+			<key>title</key>
+			<string>Debug ParseApp</string>
+			<key>uniqueIdentifier</key>
+			<string>BB6D6213-EEE4-4EEC-87BE-02684E3E66E0</string>
+		</dict>
+		<key>DA5744F3-A7CB-4515-9001-E7ADE910B0F1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DA5744F3-A7CB-4515-9001-E7ADE910B0F1.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ParseApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ParseApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ParseApp</string>
+			<key>timeStartedRecording</key>
+			<real>580401354.98925495</real>
+			<key>timeStoppedRecording</key>
+			<real>580401382.69466698</real>
+			<key>title</key>
+			<string>Debug ParseApp</string>
+			<key>uniqueIdentifier</key>
+			<string>DA5744F3-A7CB-4515-9001-E7ADE910B0F1</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

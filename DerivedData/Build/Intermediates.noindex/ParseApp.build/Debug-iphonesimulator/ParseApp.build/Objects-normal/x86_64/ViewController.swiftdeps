@@ -1,0 +1,334 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "8ParseApp14ViewControllerC"
+provides-member:
+- ["8ParseApp14ViewControllerC", ""]
+provides-dynamic-lookup:
+- "viewDidLoad"
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "PFObject"
+- !private "PFQuery"
+- !private "StringLiteralType"
+- "UIViewController"
+- "ViewController"
+- !private "print"
+depends-member:
+- !private ["s7CVarArgP", "PFObject"]
+- !private ["s7CVarArgP", "PFQuery"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "findObjectsInBackground"]
+- !private ["s7CVarArgP", "findRecord"]
+- !private ["s7CVarArgP", "getFirstObjectInBackground"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "print"]
+- !private ["s7CVarArgP", "saveInBackground"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["s7CVarArgP", "whereKey"]
+- !private ["s28CustomDebugStringConvertibleP", "PFObject"]
+- !private ["s28CustomDebugStringConvertibleP", "PFQuery"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "findObjectsInBackground"]
+- !private ["s28CustomDebugStringConvertibleP", "findRecord"]
+- !private ["s28CustomDebugStringConvertibleP", "getFirstObjectInBackground"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "print"]
+- !private ["s28CustomDebugStringConvertibleP", "saveInBackground"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s28CustomDebugStringConvertibleP", "whereKey"]
+- !private ["s23CustomStringConvertibleP", "PFObject"]
+- !private ["s23CustomStringConvertibleP", "PFQuery"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "findObjectsInBackground"]
+- !private ["s23CustomStringConvertibleP", "findRecord"]
+- !private ["s23CustomStringConvertibleP", "getFirstObjectInBackground"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- !private ["s23CustomStringConvertibleP", "saveInBackground"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["s23CustomStringConvertibleP", "whereKey"]
+- !private ["SQ", "PFObject"]
+- !private ["SQ", "PFQuery"]
+- ["SQ", ""]
+- !private ["SQ", "findObjectsInBackground"]
+- !private ["SQ", "findRecord"]
+- !private ["SQ", "getFirstObjectInBackground"]
+- !private ["SQ", "init"]
+- !private ["SQ", "print"]
+- !private ["SQ", "saveInBackground"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["SQ", "whereKey"]
+- !private ["s5ErrorP", "localizedDescription"]
+- !private ["SH", "PFObject"]
+- !private ["SH", "PFQuery"]
+- ["SH", ""]
+- !private ["SH", "findObjectsInBackground"]
+- !private ["SH", "findRecord"]
+- !private ["SH", "getFirstObjectInBackground"]
+- !private ["SH", "init"]
+- !private ["SH", "print"]
+- !private ["SH", "saveInBackground"]
+- !private ["SH", "subscript"]
+- !private ["SH", "viewDidLoad"]
+- !private ["SH", "whereKey"]
+- !private ["So8NSCodingP", "PFObject"]
+- !private ["So8NSCodingP", "PFQuery"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "findRecord"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "print"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So9NSCopyingP", "findObjectsInBackground"]
+- !private ["So9NSCopyingP", "getFirstObjectInBackground"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "whereKey"]
+- !private ["So26NSExtensionRequestHandlingP", "PFObject"]
+- !private ["So26NSExtensionRequestHandlingP", "PFQuery"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "findRecord"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "print"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So8NSObjectC", "PFObject"]
+- !private ["So8NSObjectC", "PFQuery"]
+- !private ["So8NSObjectC", "findObjectsInBackground"]
+- ["So8NSObjectC", "findRecord"]
+- !private ["So8NSObjectC", "getFirstObjectInBackground"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "print"]
+- ["So8NSObjectC", "retreiveRecords"]
+- ["So8NSObjectC", "saveDataToParse"]
+- !private ["So8NSObjectC", "saveInBackground"]
+- !private ["So8NSObjectC", "subscript"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectC", "whereKey"]
+- !private ["So8NSObjectP", "PFObject"]
+- !private ["So8NSObjectP", "PFQuery"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "findObjectsInBackground"]
+- !private ["So8NSObjectP", "findRecord"]
+- !private ["So8NSObjectP", "getFirstObjectInBackground"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "print"]
+- !private ["So8NSObjectP", "saveInBackground"]
+- !private ["So8NSObjectP", "subscript"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["So8NSObjectP", "whereKey"]
+- !private ["So8PFObjectC", "init"]
+- !private ["So8PFObjectC", "saveInBackground"]
+- !private ["So8PFObjectC", "subscript"]
+- !private ["So7PFQueryC", "findObjectsInBackground"]
+- !private ["So7PFQueryC", "getFirstObjectInBackground"]
+- !private ["So7PFQueryC", "init"]
+- !private ["So7PFQueryC", "whereKey"]
+- !private ["So21UIAppearanceContainerP", "PFObject"]
+- !private ["So21UIAppearanceContainerP", "PFQuery"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "findRecord"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "print"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "PFObject"]
+- !private ["So18UIContentContainerP", "PFQuery"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "findRecord"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "print"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So18UIFocusEnvironmentP", "PFObject"]
+- !private ["So18UIFocusEnvironmentP", "PFQuery"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "findRecord"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "print"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So30UIPasteConfigurationSupportingP", "PFObject"]
+- !private ["So30UIPasteConfigurationSupportingP", "PFQuery"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "findRecord"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "print"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So11UIResponderC", "PFObject"]
+- !private ["So11UIResponderC", "PFQuery"]
+- ["So11UIResponderC", "findRecord"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "print"]
+- ["So11UIResponderC", "retreiveRecords"]
+- ["So11UIResponderC", "saveDataToParse"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "PFObject"]
+- !private ["So30UIResponderStandardEditActionsP", "PFQuery"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "findRecord"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "print"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So16UIStateRestoringP", "PFObject"]
+- !private ["So16UIStateRestoringP", "PFQuery"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "findRecord"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "print"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So18UITraitEnvironmentP", "PFObject"]
+- !private ["So18UITraitEnvironmentP", "PFQuery"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "findRecord"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "print"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "PFObject"]
+- !private ["So23UIUserActivityRestoringP", "PFQuery"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "findRecord"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "print"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So16UIViewControllerC", "PFObject"]
+- !private ["So16UIViewControllerC", "PFQuery"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "findRecord"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "print"]
+- ["So16UIViewControllerC", "retreiveRecords"]
+- ["So16UIViewControllerC", "saveDataToParse"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["8ParseApp14ViewControllerC", "PFObject"]
+- !private ["8ParseApp14ViewControllerC", "PFQuery"]
+- ["8ParseApp14ViewControllerC", "deinit"]
+- ["8ParseApp14ViewControllerC", "findRecord"]
+- ["8ParseApp14ViewControllerC", "init"]
+- !private ["8ParseApp14ViewControllerC", "print"]
+- ["8ParseApp14ViewControllerC", "retreiveRecords"]
+- ["8ParseApp14ViewControllerC", "saveDataToParse"]
+- ["8ParseApp14ViewControllerC", "viewDidLoad"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "PFObject"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "PFQuery"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "findObjectsInBackground"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "findRecord"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "getFirstObjectInBackground"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "saveInBackground"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "whereKey"]
+depends-nominal:
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- !private "s5ErrorP"
+- "SH"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So8PFObjectC"
+- !private "So7PFQueryC"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- "So18UIFocusEnvironmentP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So16UIViewControllerC"
+- "8ParseApp14ViewControllerC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFACL.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/Parse-umbrella.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/Bolts-umbrella.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFGeneric.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFCloud+Deprecated.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFPush+Deprecated.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFUser+Deprecated.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFAnonymousUtils+Deprecated.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFObject+Deprecated.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFFileObject+Deprecated.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFQuery+Deprecated.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFCloud.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFCancellationTokenSource.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFTaskCompletionSource.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFRole.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFPurchase.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/Parse.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFUserAuthenticationDelegate.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFConfig.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFSubclassing.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFPush.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFTask.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFCancellationToken.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFPolygon.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFSession.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFRelation.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFInstallation.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFCancellationTokenRegistration.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/ParseClientConfiguration.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFDecoder.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFEncoder.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFNetworkActivityIndicatorManager.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFFileUploadController.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFUser.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFExecutor.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFAnalytics.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFAnonymousUtils.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFObject+Subclass.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/Bolts.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFConstants.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFCloud+Synchronous.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFConfig+Synchronous.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFPush+Synchronous.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFUser+Synchronous.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFObject+Synchronous.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFFileObject+Synchronous.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFQuery+Synchronous.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFObject.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFFileObject.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFProduct.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFFileUploadResult.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFGeoPoint.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFQuery.h"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Modules/module.modulemap"
+- "/Users/kennethmoody/Desktop/iOS projects/ParseApp/DerivedData/Build/Products/Debug-iphonesimulator/Bolts/Bolts.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/StoreKit.framework/Headers/StoreKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "0232e0b8a8d0c8981b03b629f7e200c6"
