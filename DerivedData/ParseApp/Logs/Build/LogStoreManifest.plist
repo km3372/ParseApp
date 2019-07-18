@@ -38,7 +38,7 @@
 			<key>uniqueIdentifier</key>
 			<string>074DC1E1-27F6-4FBE-B9BF-1F56F8D7A8F7</string>
 		</dict>
-		<key>3F85E27B-BAC8-457F-AFC4-87A1D42279D2</key>
+		<key>678FC5F4-FF44-4283-8A62-8BCFD2176AAE</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -47,71 +47,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>3F85E27B-BAC8-457F-AFC4-87A1D42279D2.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>ParseApp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>ParseApp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build ParseApp</string>
-			<key>timeStartedRecording</key>
-			<real>580401354.89360595</real>
-			<key>timeStoppedRecording</key>
-			<real>580401355.01010501</real>
-			<key>title</key>
-			<string>Build ParseApp</string>
-			<key>uniqueIdentifier</key>
-			<string>3F85E27B-BAC8-457F-AFC4-87A1D42279D2</string>
-		</dict>
-		<key>58FCEE1A-A309-47C9-B7E5-84B8E1C24C65</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>58FCEE1A-A309-47C9-B7E5-84B8E1C24C65.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>ParseApp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>ParseApp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build ParseApp</string>
-			<key>timeStartedRecording</key>
-			<real>580400745.86780798</real>
-			<key>timeStoppedRecording</key>
-			<real>580400750.05060005</real>
-			<key>title</key>
-			<string>Build ParseApp</string>
-			<key>uniqueIdentifier</key>
-			<string>58FCEE1A-A309-47C9-B7E5-84B8E1C24C65</string>
-		</dict>
-		<key>62BA73C3-0DC1-4351-A3B5-F3C4C9E7A64D</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>62BA73C3-0DC1-4351-A3B5-F3C4C9E7A64D.xcactivitylog</string>
+			<string>678FC5F4-FF44-4283-8A62-8BCFD2176AAE.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -126,15 +62,15 @@
 			<key>signature</key>
 			<string>Build ParseApp</string>
 			<key>timeStartedRecording</key>
-			<real>580400705.02152205</real>
+			<real>585147187.50306106</real>
 			<key>timeStoppedRecording</key>
-			<real>580400710.19622505</real>
+			<real>585147188.01091099</real>
 			<key>title</key>
 			<string>Build ParseApp</string>
 			<key>uniqueIdentifier</key>
-			<string>62BA73C3-0DC1-4351-A3B5-F3C4C9E7A64D</string>
+			<string>678FC5F4-FF44-4283-8A62-8BCFD2176AAE</string>
 		</dict>
-		<key>81FB2529-4201-4CE2-AC26-82F3C7AB6765</key>
+		<key>A99C68C3-D0FE-407C-AB95-48761FE0C1F9</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -143,7 +79,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>81FB2529-4201-4CE2-AC26-82F3C7AB6765.xcactivitylog</string>
+			<string>A99C68C3-D0FE-407C-AB95-48761FE0C1F9.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -158,15 +94,15 @@
 			<key>signature</key>
 			<string>Clean ParseApp</string>
 			<key>timeStartedRecording</key>
-			<real>580400730.84991801</real>
+			<real>585147204.35959196</real>
 			<key>timeStoppedRecording</key>
-			<real>580400731.05488801</real>
+			<real>585147204.50490999</real>
 			<key>title</key>
 			<string>Clean ParseApp</string>
 			<key>uniqueIdentifier</key>
-			<string>81FB2529-4201-4CE2-AC26-82F3C7AB6765</string>
+			<string>A99C68C3-D0FE-407C-AB95-48761FE0C1F9</string>
 		</dict>
-		<key>8A0C28F5-824D-4B5D-A871-C440479CF37B</key>
+		<key>AF718823-E927-454E-BE3C-0373E7DBC26F</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -175,7 +111,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>8A0C28F5-824D-4B5D-A871-C440479CF37B.xcactivitylog</string>
+			<string>AF718823-E927-454E-BE3C-0373E7DBC26F.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -190,15 +126,15 @@
 			<key>signature</key>
 			<string>Build ParseApp</string>
 			<key>timeStartedRecording</key>
-			<real>580401383.71672595</real>
+			<real>585147208.48390806</real>
 			<key>timeStoppedRecording</key>
-			<real>580401384.35434103</real>
+			<real>585147215.68753803</real>
 			<key>title</key>
 			<string>Build ParseApp</string>
 			<key>uniqueIdentifier</key>
-			<string>8A0C28F5-824D-4B5D-A871-C440479CF37B</string>
+			<string>AF718823-E927-454E-BE3C-0373E7DBC26F</string>
 		</dict>
-		<key>9974AF9F-10BE-4DC8-85D2-255B24D094A0</key>
+		<key>E0ED72FD-2271-4B0B-BB4A-59FB7CAA5B67</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -207,11 +143,11 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>9974AF9F-10BE-4DC8-85D2-255B24D094A0.xcactivitylog</string>
+			<string>E0ED72FD-2271-4B0B-BB4A-59FB7CAA5B67.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>W</string>
+				<string>E</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>ParseApp project</string>
@@ -222,141 +158,13 @@
 			<key>signature</key>
 			<string>Build ParseApp</string>
 			<key>timeStartedRecording</key>
-			<real>580695019.51984203</real>
+			<real>585147196.68320405</real>
 			<key>timeStoppedRecording</key>
-			<real>580695020.22430599</real>
+			<real>585147196.77802706</real>
 			<key>title</key>
 			<string>Build ParseApp</string>
 			<key>uniqueIdentifier</key>
-			<string>9974AF9F-10BE-4DC8-85D2-255B24D094A0</string>
-		</dict>
-		<key>CA4F9DE0-692C-42DE-A6A3-4DAE89D301C1</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>CA4F9DE0-692C-42DE-A6A3-4DAE89D301C1.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>ParseApp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>ParseApp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build ParseApp</string>
-			<key>timeStartedRecording</key>
-			<real>580694946.74264002</real>
-			<key>timeStoppedRecording</key>
-			<real>580694947.43699205</real>
-			<key>title</key>
-			<string>Build ParseApp</string>
-			<key>uniqueIdentifier</key>
-			<string>CA4F9DE0-692C-42DE-A6A3-4DAE89D301C1</string>
-		</dict>
-		<key>CAD10259-479A-4C06-8610-1D8DB1D6F360</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>CAD10259-479A-4C06-8610-1D8DB1D6F360.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>ParseApp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>ParseApp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build ParseApp</string>
-			<key>timeStartedRecording</key>
-			<real>580234349.71116698</real>
-			<key>timeStoppedRecording</key>
-			<real>580234350.45842195</real>
-			<key>title</key>
-			<string>Build ParseApp</string>
-			<key>uniqueIdentifier</key>
-			<string>CAD10259-479A-4C06-8610-1D8DB1D6F360</string>
-		</dict>
-		<key>CB039A5C-CE58-4BCE-A3C9-424398D5191E</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>CB039A5C-CE58-4BCE-A3C9-424398D5191E.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>ParseApp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>ParseApp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build ParseApp</string>
-			<key>timeStartedRecording</key>
-			<real>580401348.02131295</real>
-			<key>timeStoppedRecording</key>
-			<real>580401348.69584298</real>
-			<key>title</key>
-			<string>Build ParseApp</string>
-			<key>uniqueIdentifier</key>
-			<string>CB039A5C-CE58-4BCE-A3C9-424398D5191E</string>
-		</dict>
-		<key>CD003A42-D4FE-42EB-9DA9-B9845B80661B</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>CD003A42-D4FE-42EB-9DA9-B9845B80661B.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>ParseApp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>ParseApp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build ParseApp</string>
-			<key>timeStartedRecording</key>
-			<real>580400812.68159795</real>
-			<key>timeStoppedRecording</key>
-			<real>580400812.82374096</real>
-			<key>title</key>
-			<string>Build ParseApp</string>
-			<key>uniqueIdentifier</key>
-			<string>CD003A42-D4FE-42EB-9DA9-B9845B80661B</string>
+			<string>E0ED72FD-2271-4B0B-BB4A-59FB7CAA5B67</string>
 		</dict>
 	</dict>
 </dict>

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		yZ2ppgnQ9b8w0RqpGEzb4j6j1dY=
+		MPOhnjD4fGqDLWDp6ozRv09LOzU=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -14,11 +14,11 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		RbmKvf0X5pcPSV7FsXXh3KRHQL0=
+		zTiMQTFPPeu840THKz7lzWRp9lw=
 		</data>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
-		+Jffhq+T0w3eOpRcftir0XFp80Q=
+		5xQyXRbEtQuCNZSt6R96KnIa+CY=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
 		<data>
-		wZmVP4b/gNyaI7BGCB8vVBPwVG0=
+		ieIQj/dpSOzC1tWWwbiJV9PzU9o=
 		</data>
 		<key>Frameworks/Bolts.framework/Bolts</key>
 		<data>
-		8FtFFtlDfre9/7I8HXCecQEAfjg=
+		ypKEIfTdPnNSgTB5x0H3Cee2dHw=
 		</data>
 		<key>Frameworks/Bolts.framework/Info.plist</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/Parse.framework/Parse</key>
 		<data>
-		cavZikh/aUdCvVevK0n8hZdOunc=
+		G6ah7TZv40jqPh4Gd42aSjhRbAw=
 		</data>
 		<key>Frameworks/Parse.framework/Parse.bundle/Info.plist</key>
 		<data>
@@ -104,7 +104,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			u60kMD9l93GR9h2XL0by8XZhCCLm65+WB2TOpkPh9MM=
+			xdjPhU0sQH6nuZdnOZNmyVYdtDvBjZZtBprqdM25gxk=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
@@ -118,14 +118,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			U+HEXdIsivOcHCOKdAtvpQAlsLwfA/9r5cs4J1GgmmU=
+			jrOkK0v6u4r/1pZe5RFwvXKdKqJq7dIIx49foAPN/H8=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ccK3FAlieWOZc+++9a/sFAuKPYQzbf03USn/CoqX+pU=
+			rK5z0AEC6HGFNVgvbRIawNhnCKqkFDkNbTt7igj6qSk=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
@@ -139,14 +139,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ik8y80suEfIs85uaD9tr6PztrbV8KJoNjyVtVtXzO1g=
+			dLPw1gAdX02b0x4Fmz5edyrWr+kLL+tQNViOAMk9+ko=
 			</data>
 		</dict>
 		<key>Frameworks/Bolts.framework/Bolts</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rROf7G8lNYvmuTa8MwuIx52dFKW8g99USaE832VREsI=
+			wukh9dbTSYqLo9bW4tJyOPsT2n5Mlb0gtU5d7RBB6Fc=
 			</data>
 		</dict>
 		<key>Frameworks/Bolts.framework/Info.plist</key>
@@ -174,7 +174,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			auZrG3xr3g/+t5w3aSsbgmdyGOnZ4WZuUbVBcWXsE7A=
+			O+SSZfnB0VvfV3h+JIQOM3HlK6fUgOpkqGLyFRbZvwI=
 			</data>
 		</dict>
 		<key>Frameworks/Parse.framework/Parse.bundle/Info.plist</key>
